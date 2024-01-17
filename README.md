@@ -1,5 +1,16 @@
 
+# Base line for our site sinbrive.sinbrive.io/eurientis72
 
+deploiement
+- changer le PUG de ce repo
+- valider en local npm start
+- build : npm run build
+- copier dist/ dans le repo eurientis72 et pusher
+
+
+compte contact form
+- https://blog.hubspot.com/marketing/html-form-email
+- login eurient72 gmail
 
 icons
 - https://icons.getbootstrap.com/icons/sun/
