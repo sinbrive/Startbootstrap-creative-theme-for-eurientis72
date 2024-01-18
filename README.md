@@ -5,7 +5,10 @@ deploiement
 - changer le PUG de ce repo
 - valider en local npm start
 - build : npm run build
-- copier dist/ dans le repo eurientis72 et pusher
+- ~copier dist/ dans le repo eurientis72 et pusher~
+- cd dist  (un git specifique créé sur dist)
+- git add . / git commit 
+- git push  https://github.com/sinbrive/eurientis72.git master  (master et non main)
 
 
 compte contact form
