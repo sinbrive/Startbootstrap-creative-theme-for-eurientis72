@@ -1,6 +1,10 @@
 
 # Base line for our site sinbrive.sinbrive.io/eurientis72
-
+Usage
+- changer le PUG de ce repo
+- valider en local npm start
+- build : npm run build
+ 
 deploiement
 - changer le PUG de ce repo
 - valider en local npm start
@@ -10,6 +14,10 @@ deploiement
 - git add . / git commit 
 - git push  https://github.com/sinbrive/eurientis72.git master  (master et non main)
 
+
+Trick : in github select branch fro web pages
+- `setting -> pages -> select branch for web page`
+- for eurientis72 : https://github.com/sinbrive/eurientis72/settings/pages
 
 compte contact form
 - https://blog.hubspot.com/marketing/html-form-email
