@@ -9,10 +9,14 @@ deploiement
 - changer le PUG de ce repo
 - valider en local npm start
 - build : npm run build
+- git add . / git commit / push
 - ~copier dist/ dans le repo eurientis72 et pusher~
-- cd dist  (un git specifique créé sur dist)
+- cd dist  (un git specifique est créé sur dist)
 - git add . / git commit 
-- git push  https://github.com/sinbrive/eurientis72.git master  (master et non main)
+- NB: make sure you have linked with remote:
+   - git remote add origin  https://github.com/sinbrive/eurientis72.git
+- ~git push  https://github.com/sinbrive/eurientis72.git master  (master et non main)~
+- git push origin master  (master et non main)
 
 
 Trick : in github select branch fro web pages
