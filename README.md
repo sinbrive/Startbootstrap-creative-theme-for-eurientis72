@@ -1,7 +1,8 @@
 
 
 # change color (primary)
-- `$orange: rgb(27,109, 151); // #f4623a;` in _colors.scss
+- `$orange: rgb(27, 86, 104); // #f4623a;` in _colors.scss
+- .bi-twitter-x:before in _global.scss
 
 # Base line for our site sinbrive.sinbrive.io/eurientis72
 Usage
