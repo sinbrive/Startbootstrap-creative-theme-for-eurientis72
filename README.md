@@ -1,4 +1,8 @@
 
+
+# change color (primary)
+- `$orange: rgb(27,109, 151); // #f4623a;` in _colors.scss
+
 # Base line for our site sinbrive.sinbrive.io/eurientis72
 Usage
 - changer le PUG de ce repo
