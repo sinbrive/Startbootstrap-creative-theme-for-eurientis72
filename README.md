@@ -23,7 +23,6 @@ deploiement
 - ~git push  https://github.com/sinbrive/eurientis72.git master  (master et non main)~
 - git push origin master  (master et non main)
 
-
 Trick : in github select branch fro web pages
 - `setting -> pages -> select branch for web page`
 - for eurientis72 : https://github.com/sinbrive/eurientis72/settings/pages
